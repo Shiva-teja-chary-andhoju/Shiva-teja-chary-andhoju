@@ -27,9 +27,9 @@ I am passionate about using data to drive business decisions and improve outcome
 # 📊Github Stats
 <img  src="https://github-readme-stats.vercel.app/api?username=Shiva-teja-chary-andhoju&show_icons=true&theme=radical" />
 
-<img  src="https://streak-stats.demolab.com/?user=Shiva-teja-chary-andhoju&theme=dark" />
+<img  src="https://streak-stats.demolab.com/?user=Shiva-teja-chary-andhoju&theme=radical" />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-teja-chary-andhoju&layout=compact&theme=dark" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-teja-chary-andhoju&layout=compact&theme=radical" />
 
 
 
