@@ -1,6 +1,5 @@
 ### Hi there, I'm Shiva 👋 
 
-I am passionate about using data to drive business decisions and improve outcomes. I have a keen eye for detail, and I am able to analyze complex datasets to identify trends and patterns. I am quick learner and strong collaborator, and I thrive in fast-paced environments.
 
 # 💫 About Me:
 👨‍💻 Google Certified Data Analyst. 
