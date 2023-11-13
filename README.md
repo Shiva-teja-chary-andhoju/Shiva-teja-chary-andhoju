@@ -5,7 +5,6 @@
 
 
 ## 💫 About Me:
-👨‍💻 Google Certified Data Analyst. 
 
 🎯 Passionate about converting data into insights and building frameworks for decision-making. 
 
