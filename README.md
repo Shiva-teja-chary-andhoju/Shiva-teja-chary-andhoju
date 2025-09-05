@@ -2,6 +2,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=21&duration=6000&pause=200&color=35B7F1&center=true&vCenter=true&width=600&height=45&lines=I+am+a+Business+Intelligence+Database+Analyst;Portfolio%3A+DataSciencePortfol.io%2Fandhojushiva1234;LinkedIn%3A+Shiva+Teja+Chary+Andhoju)](https://git.io/typing-svg)
 
 ##
+<!-- Compact Portfolio Badge with Smaller Text -->
+<a href="https://www.datascienceportfol.io/andhojushiva1234" target="_blank">
+  <img height="40" width="300" 
+       src="https://img.shields.io/badge/datascienceportfol.io%2Fandhojushiva1234-📊-35B7F1?style=flat&logoColor=white" 
+       alt="datascienceportfol.io/andhojushiva1234"/>
+</a>
+
+
+##
 
 ### Languages and Tools:
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
@@ -22,6 +31,7 @@
 </code><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" /></code>
 
 ##
+
 
 ### Connect with me:
 <p align="left">
@@ -45,11 +55,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat - shivam021198" height="30" width="40" />
   </a>
 
-  <!-- Data Science Portfolio -->
-  <a href="https://www.datascienceportfol.io/andhojushiva1234" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/readthedocs.svg" alt="Data Science Portfolio" height="30" width="40" />
-  </a>
-</p>
 
 ##
 
@@ -74,7 +79,12 @@
   </table>
 </div>
 
-[![🔥 Profile Views](https://komarev.com/ghpvc/?username=Shiva-teja-chary-andhoju&label=🔥+Profile+Hits&color=35B7F1&style=for-the-badge)](https://github.com/Shiva-teja-chary-andhoju)
+<!-- GitHub Profile Views Badge -->
+<a href="https://github.com/Shiva-teja-chary-andhoju" target="_blank">
+  <img height="50" width="150" 
+       src="https://komarev.com/ghpvc/?username=Shiva-teja-chary-andhoju&label=📈+Profile+Views&color=35B7F1&style=flat" 
+       alt="GitHub Profile Views"/>
+</a>
 
 
 
