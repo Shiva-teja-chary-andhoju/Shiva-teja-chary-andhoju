@@ -50,6 +50,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/readthedocs.svg" alt="Data Science Portfolio" height="30" width="40" />
   </a>
 </p>
+
 ##
 
 <div align="center">
