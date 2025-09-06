@@ -9,7 +9,6 @@
        alt="datascienceportfol.io/andhojushiva1234"/>
 </a>
 
-
 ##
 
 ### Languages and Tools:
@@ -17,7 +16,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/></code>
-<code><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/f204a12e-6e36-42c5-bbe8-b71910d55039" alt="Seaborn"/></code>
+<code><img width="40" height="40" src="https://github.com/user-attachments/assets/f204a12e-6e36-42c5-bbe8-b71910d55039" alt="Seaborn"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Sqlserver"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake-icon.svg" alt="Snowflake"/></code>
@@ -28,10 +27,9 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"/></code>
 <code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
-</code><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" /></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" alt="TensorFlow"/></code>
 
 ##
-
 
 ### Connect with me:
 <p align="left">
@@ -54,6 +52,12 @@
   <a href="https://www.snapchat.com/add/shivam021198?share_id=zluBk_xmyzg&locale=en-IN" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat - shivam021198" height="30" width="40" />
   </a>
+
+  <!-- Gmail -->
+  <a href="mailto:andhojushiva1234@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail - andhojushiva1234" height="30" width="40" />
+  </a>
+</p>
 
 
 ##
