@@ -27,7 +27,8 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"/></code>
 <code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
-<code><img height="40" width="40" src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" alt="TensorFlow"/></code>
+<code><img height="40" width="40" src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" alt="EXCEL"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gnometerminal.svg" alt="Command Prompt"/></code>
 
 ##
 
