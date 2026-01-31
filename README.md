@@ -12,21 +12,18 @@
 ##
 
 ### Languages and Tools:
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Sqlserver"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"/></code>
-<code><img height="40" width="40" src="https://scipy.org/images/logo.svg" alt="SciPy"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"/></code>
-<code><img width="40" height="40" src="https://github.com/user-attachments/assets/f204a12e-6e36-42c5-bbe8-b71910d55039" alt="Seaborn"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="Plotly"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Sqlserver"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"/></code>
+<code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake-icon.svg" alt="Snowflake"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook"/></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"/></code>
-<code><img height="40" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/></code>
 <code><img height="40" width="40" src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" alt="EXCEL"/></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gnometerminal.svg" alt="Command Prompt"/></code>
