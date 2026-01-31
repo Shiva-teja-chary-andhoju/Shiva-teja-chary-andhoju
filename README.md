@@ -9,6 +9,26 @@
        alt="datascienceportfol.io/andhojushiva1234"/>
 </a>
 
+<!--🖼️⭐🔱STARRED/FORK-->
+<h4 align="right">
+ 
+<table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+
+ 
+
+
+<!-- GitHub Profile Views Badge -->
+<a href="https://github.com/Shiva-teja-chary-andhoju" target="_blank">
+  <img height="50" width="150" 
+       src="https://komarev.com/ghpvc/?username=Shiva-teja-chary-andhoju&label=📈+Profile+Views&color=35B7F1&style=flat" 
+       alt="GitHub Profile Views"/>
+</a>
+
 ##
 
 ### Languages and Tools:
@@ -60,38 +80,24 @@
 </p>
 
 
-##
-
-
-![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiva-teja-chary-andhoju&theme=radical)
-
-
 
 
 ##
 
 
-
-
-<!--🖼️⭐🔱STARRED/FORK-->
-<h4 align="right">
- 
-<table>
+<table border="0">
   <tr>
-   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shiva-teja-chary-andhoju&layout=compact&theme=radical&v=3" alt="Top Langs" height="165px" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiva-teja-chary-andhoju&theme=radical" alt="Repo Stats" height="165px" />
+    </td>
   </tr>
+</table>
 
- 
 
 
-<!-- GitHub Profile Views Badge -->
-<a href="https://github.com/Shiva-teja-chary-andhoju" target="_blank">
-  <img height="50" width="150" 
-       src="https://komarev.com/ghpvc/?username=Shiva-teja-chary-andhoju&label=📈+Profile+Views&color=35B7F1&style=flat" 
-       alt="GitHub Profile Views"/>
-</a>
 
 
 
