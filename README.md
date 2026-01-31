@@ -62,26 +62,29 @@
 
 ##
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <th>Most Used Languages</th>
-      <th>GitHub Stats</th>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Shiva-teja-chary-andhoju">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-teja-chary-andhoju&layout=compact&langs_count=6&hide=html,css,cmake,makefile&bg_color=ffffff&title_color=35B7F1&text_color=000000" alt="Top Languages"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Shiva-teja-chary-andhoju">
-          <img src="https://github-readme-stats.vercel.app/api?username=Shiva-teja-chary-andhoju&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=35B7F1&bg_color=ffffff&title_color=35B7F1&text_color=000000&icon_color=35B7F1" width="700" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiva-teja-chary-andhoju&theme=radical)
+
+
+
+
+##
+
+
+
+
+<!--🖼️⭐🔱STARRED/FORK-->
+<h4 align="right">
+ 
+<table>
+  <tr>
+   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </tr>
+
+ 
+
 
 <!-- GitHub Profile Views Badge -->
 <a href="https://github.com/Shiva-teja-chary-andhoju" target="_blank">
