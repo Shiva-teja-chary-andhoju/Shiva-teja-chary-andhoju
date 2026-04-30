@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm Shiva Teja!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=21&duration=6000&pause=200&color=35B7F1&center=true&vCenter=true&width=600&height=45&lines=I+am+a+Business+Intelligence+Database+Analyst;Portfolio%3A+DataSciencePortfol.io%2Fandhojushiva1234;LinkedIn%3A+Shiva+Teja+Chary+Andhoju" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=21&duration=6000&pause=200&color=35B7F1&center=true&vCenter=true&width=600&height=45&lines=I+am+a+Business+Intelligence+Database+Senior+Analyst;Portfolio%3A+DataSciencePortfol.io%2Fandhojushiva1234;LinkedIn%3A+Shiva+Teja+Chary+Andhoju" />
 </p>
 
 ##
