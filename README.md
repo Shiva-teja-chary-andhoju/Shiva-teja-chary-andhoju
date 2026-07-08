@@ -42,7 +42,6 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/snowflake-icon.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" height="40"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="40"/>
   <img src="https://github.com/user-attachments/assets/4d61db55-28b3-4cec-afa4-4a0a9da8ca4f" height="40"/>
@@ -79,5 +78,7 @@
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shiva-teja-chary-andhoju&layout=compact&theme=radical&v=3" height="165"/>
   &nbsp;&nbsp;
+
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiva-teja-chary-andhoju&theme=radical" height="165"/>
 </p>
